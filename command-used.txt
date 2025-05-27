@@ -1,0 +1,4 @@
+./spark-submit   --packages org.apache.hadoop:hadoop-aws:3.3.4,com.amazonaws:aws-java-sdk-bundle:1.12.539   apache-spark-script.py
+#DOWNLOAD APACHE-SPARK FROM HERE:
+https://www.apache.org/dyn/closer.lua/spark/spark-3.5.5/spark-3.5.5-bin-hadoop3.tgz
+#NAVIGATE TO BIN AND RUN THE SPARK-SUBMIT WITH MY CODE YOU WILL HAVE THE VISUALIZATION 
